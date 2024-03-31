@@ -53,3 +53,6 @@ diagonal neighbors,
 38. Face Detection using Opencv.
 39. Vehicle Detection in a Video frame using OpenCV .
 40. Draw Rectangular shape and extract objects.
+41.
+42.Test Pic : ![p1](https://github.com/thevishnuteja/DSA0213-COMPUTER_VISION/assets/123451967/f2540778-1da6-4628-8672-656a2a1f7ed5)
+ 
